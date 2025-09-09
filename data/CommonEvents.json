@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":2},
+{"id":2,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Is Party Dead?","switchId":1,"trigger":2},
+{"id":3,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":4,"list":[{"code":316,"indent":0,"parameters":[0,0,0,0,5,false]},{"code":0,"indent":0,"parameters":[]}],"name":"MANUAL LVL UP","switchId":52,"trigger":2},
+{"id":5,"list":[{"code":122,"indent":0,"parameters":[5,5,0,2,0,5]},{"code":111,"indent":0,"parameters":[10,8,false]},{"code":314,"indent":1,"parameters":[0,0]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":111,"indent":1,"parameters":[1,5,0,1,0]},{"code":334,"indent":2,"parameters":[-1]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,5,0,2,0]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,5,0,3,0]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,5,0,4,0]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":111,"indent":1,"parameters":[1,5,0,5,0]},{"code":314,"indent":2,"parameters":[0,0]},{"code":0,"indent":2,"parameters":[]},{"code":412,"indent":1,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Gamble","switchId":1,"trigger":0},
+{"id":6,"list":[{"code":121,"indent":0,"parameters":[54,54,0]},{"code":0,"indent":0,"parameters":[]}],"name":"all puzzles","switchId":62,"trigger":2},
+{"id":7,"list":[{"code":318,"indent":0,"parameters":[0,4,1,30]},{"code":318,"indent":0,"parameters":[0,4,0,29]},{"code":318,"indent":0,"parameters":[0,4,0,31]},{"code":0,"indent":0,"parameters":[]}],"name":"Rip Out","switchId":1,"trigger":0},
+{"id":8,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"Dig","switchId":1,"trigger":0},
+{"id":9,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0},
+{"id":10,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"FORCE LEVEL UP","switchId":1,"trigger":2}
+]

@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"atypeId":3,"description":"AGL +2\nDEF -1","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":140,"name":"Swift Boots","note":"","params":[0,0,0,-1,0,0,2,0],"price":300},
+{"id":2,"atypeId":3,"description":"ATK +2","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":106,"name":"Leather Gloves","note":"","params":[0,0,2,0,0,0,0,0],"price":300},
+{"id":3,"atypeId":1,"description":"DEF +2\nATK +2","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":150,"name":"Scarf","note":"","params":[0,0,1,1,0,0,0,0],"price":300},
+{"id":4,"atypeId":3,"description":"DEF +3\nM.DEF -2","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":152,"name":"Thick Coat","note":"","params":[0,0,0,3,0,-2,0,0],"price":300},
+{"id":5,"atypeId":0,"description":"LCK +3","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.15}],"iconIndex":130,"name":"Lucky Hat","note":"","params":[0,0,0,0,0,0,0,3],"price":0},
+{"id":6,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":146,"name":"Necklace Of Justice","note":"","params":[0,0,0,-5,5,5,0,0],"price":0},
+{"id":7,"atypeId":1,"description":"DEF +6\nATK +6","etypeId":5,"traits":[{"code":22,"dataId":2,"value":0.1}],"iconIndex":150,"name":"Loose Scarf","note":"","params":[0,0,4,4,0,0,0,0],"price":0},
+{"id":8,"atypeId":3,"description":"+35 LUCK\n-2 ATK. AND -4 ALL OTHER STATS.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":43,"dataId":27,"value":1}],"iconIndex":130,"name":"Gamblers Hat","note":"","params":[-4,-4,-2,-4,-4,-4,-4,35],"price":0},
+{"id":9,"atypeId":3,"description":"Regenerate HP Over The Battle","etypeId":2,"traits":[{"code":22,"dataId":7,"value":0.05}],"iconIndex":85,"name":"Glove Of Life (LEFT)","note":"","params":[3,0,-2,2,0,-2,-2,0],"price":0},
+{"id":10,"atypeId":3,"description":"","etypeId":5,"traits":[{"code":22,"dataId":7,"value":0.05}],"iconIndex":86,"name":"Glove Of Life (RIGHT)","note":"","params":[3,0,-2,2,0,-2,-2,0],"price":0},
+{"id":11,"atypeId":3,"description":"","etypeId":4,"traits":[{"code":22,"dataId":7,"value":0.15}],"iconIndex":84,"name":"Amulet Of Life","note":"","params":[4,0,-4,2,0,-6,-2,0],"price":0},
+{"id":12,"atypeId":3,"description":"EXP GAIN: 120%\n-4 DEF","etypeId":2,"traits":[{"code":23,"dataId":9,"value":1.2}],"iconIndex":134,"name":"Amulet Of Progress","note":"","params":[0,0,0,-4,0,0,0,0],"price":200},
+{"id":13,"atypeId":3,"description":"EXP GAIN: 140%\n-10 DEF","etypeId":2,"traits":[{"code":23,"dataId":9,"value":1.4}],"iconIndex":88,"name":"Shard Of Progression","note":"","params":[0,0,0,-8,0,0,0,0],"price":200},
+{"id":14,"atypeId":3,"description":"EXP GAIN: 200%\n-40 DEF. -30 M.DEF.","etypeId":2,"traits":[{"code":23,"dataId":9,"value":2}],"iconIndex":87,"name":"Light Of Progression","note":"","params":[0,0,0,-40,0,-30,0,0],"price":1500},
+{"id":15,"atypeId":1,"description":"ATK +6 +20% CRIT CHANCE\nDEF -4","etypeId":5,"traits":[{"code":22,"dataId":2,"value":0.2}],"iconIndex":150,"name":"Power Scarf","note":"","params":[0,0,8,-4,0,0,0,0],"price":0},
+{"id":16,"atypeId":1,"description":"+1,000,000,000 CHICKEN POWER!!!!","etypeId":2,"traits":[{"code":22,"dataId":5,"value":0.15}],"iconIndex":150,"name":"Chicken Scarf","note":"","params":[0,0,0,0,3,3,0,0],"price":0},
+{"id":17,"atypeId":3,"description":"LEARN: ALLEVIATE\n+4 DEF -1 ATK","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0},{"code":41,"dataId":1,"value":1},{"code":43,"dataId":36,"value":1}],"iconIndex":133,"name":"Clerics Hat","note":"","params":[0,0,-1,4,0,0,0,0],"price":0}
+]

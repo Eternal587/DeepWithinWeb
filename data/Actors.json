@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"KainBattler","characterIndex":0,"characterName":"KainCharacter","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Kain Reality","traits":[],"initialLevel":1,"maxLevel":30,"name":"Kain","nickname":"Kain","note":"","profile":"It's You!"},
+{"id":2,"battlerName":"RumiBattler","characterIndex":0,"characterName":"RumiCharacter","classId":2,"equips":[4,0,0,0,0],"faceIndex":0,"faceName":"Rumi DRAWING","traits":[],"initialLevel":1,"maxLevel":30,"name":"Rumi","nickname":"Rumi","note":"","profile":"Looks A Lot Like Rudy, And Kind Of Acts Like Them."},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"KainReality","classId":1,"equips":[0,0,0,0,0],"faceIndex":1,"faceName":"Kain Reality","traits":[],"initialLevel":1,"maxLevel":1,"name":"Kain","nickname":"Kain","note":"","profile":""},
+{"id":4,"battlerName":"LaxBattler","characterIndex":0,"characterName":"LaxCharacter","classId":4,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"LaxFace","traits":[],"initialLevel":2,"maxLevel":30,"name":"Lax","nickname":"Lax","note":"","profile":"Helping The Guys Who Robbed You Definitely Doesn't Feel\nVery Good, Does It?"},
+{"id":5,"battlerName":"JaxBattler","characterIndex":0,"characterName":"JaxCharacter","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"JaxFace","traits":[],"initialLevel":1,"maxLevel":30,"name":"Jax","nickname":"Jax","note":"","profile":"Helping The Guys Who Robbed You Definitely Doesn't Feel\nVery Good, Does It?"}
+]
